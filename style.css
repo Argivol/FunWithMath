@@ -103,3 +103,16 @@ nav {
   bottom: 0;
   width: 100%;
 }
+
+.container {
+    width:100%;
+    max-width:600px;
+    margin: 0 auto;
+    padding:10px;
+}
+.row {
+    height:100%;
+    width:100%;
+    margin-bottom:10px;
+    padding:10px;
+}
